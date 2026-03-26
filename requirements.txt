@@ -1,0 +1,16 @@
+﻿# CloudSufi RAG Q&A System - Dependencies
+
+# Core RAG Components
+google-generativeai==0.3.2
+httpx==0.27.2
+chromadb==0.4.22
+sentence-transformers==2.3.1
+
+# PDF Processing
+pypdf==4.0.1
+
+# UI Framework
+streamlit==1.31.0
+
+# Utilities
+python-dotenv==1.0.1
