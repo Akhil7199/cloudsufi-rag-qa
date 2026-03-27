@@ -904,7 +904,7 @@ MIT License - Free to use for any purpose
 - GitHub: [github.com/Akhil7199](https://github.com/Akhil7199)
 
 **Background:**
-- M.S. Computer Science, Cleveland State University (GPA 3.8, 2024)
+- M.S. Computer Science, Cleveland State University (88%, 2024)
 - Lead AI Engineer at fundae Software (RAG systems, LangGraph, 86.7% success rate)
 - Production experience: Azure OpenAI, LangGraph, FastAPI, multi-agent systems
 
